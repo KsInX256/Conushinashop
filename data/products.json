@@ -1,0 +1,166 @@
+{
+  "products" : [
+    {
+      "id": "1",
+      "name":"Candle holder",
+      "price": "15",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/candlefor.jpg"
+
+    },
+
+    {
+      "id": "2",
+      "name":"Wooden cards",
+      "price": "30",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptatesLorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/cardswooden.jpg"
+
+    },
+
+    {
+      "id": "3",
+      "name":"Wooden & Epoxy Clock",
+      "price": "50",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/clock.jpeg"
+
+    },
+
+    {
+      "id": "4",
+      "name":"Clock 'Sun'",
+      "price": "45",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/clock2.jpg"
+
+    },
+
+    {
+      "id": "5",
+      "name":"Cutting Board",
+      "price": "20",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/dosch.JPG"
+
+    },
+
+    {
+      "id": "6",
+      "name":"Cube Clocks",
+      "price": "10",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/time.jpg"
+
+    },
+
+    {
+      "id": "7",
+      "name":"Plate 'Heart'",
+      "price": "7",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/hearts.jpg"
+
+    },
+
+    {
+      "id": "8",
+      "name":"Wooden Animals",
+      "price": "12",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/panda.jpg"
+
+    },
+
+    {
+      "id": "9",
+      "name":"Epoxy Table",
+      "price": "1000",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/bg-table.png"
+
+    },
+
+    {
+      "id": "10",
+      "name":"Candle holder",
+      "price": "15",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/candlefor.jpg"
+
+    },
+
+    {
+      "id": "11",
+      "name":"Wooden cards",
+      "price": "30",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptatesLorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/cardswooden.jpg"
+
+    },
+
+    {
+      "id": "12",
+      "name":"Wooden & Epoxy Clock",
+      "price": "50",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/clock.jpeg"
+
+    },
+
+    {
+      "id": "13",
+      "name":"Clock 'Sun'",
+      "price": "45",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/clock2.jpg"
+
+    },
+
+    {
+      "id": "14",
+      "name":"Cutting Board",
+      "price": "20",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/dosch.JPG"
+
+    },
+
+    {
+      "id": "15",
+      "name":"Cube Clocks",
+      "price": "10",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/time.jpg"
+
+    },
+
+    {
+      "id": "16",
+      "name":"Plate 'Heart'",
+      "price": "7",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/hearts.jpg"
+
+    },
+
+    {
+      "id": "17",
+      "name":"Wooden Animals",
+      "price": "12",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/panda.jpg"
+
+    },
+
+    {
+      "id": "18",
+      "name":"Epoxy Table",
+      "price": "1000",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, iure, quod.Reiciendis sequi unde voluptates",
+      "img": "./img/bg-table.png"
+
+    }
+
+  ]
+}
